@@ -1,0 +1,342 @@
+2024-10-21 14:04:47.176456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.191455+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.192462+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.193456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.194456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.195456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.195456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.196455+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.197456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.198456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.199456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.200461+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.202530+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.203457+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.204459+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.204459+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.206464+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.207461+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.209460+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.210459+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.210459+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.211511+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.212458+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.212458+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.213457+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.214458+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.215926+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.217946+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.218937+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.219946+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.220935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.220935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.221940+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.222939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.222939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.223943+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.223943+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.224950+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.225938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.226937+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.227949+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.227949+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.228938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.229940+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.230936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.230936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.231938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.231938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.232935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.233938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.233938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.234934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.235938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.235938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.236934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.237938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.238935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.239956+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.240945+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.241935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.242936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.243935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.243935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.244934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.245935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.246959+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.247935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.247935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.248948+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.249939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.249939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.250953+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.250953+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.251935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.251935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.252935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.252935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.253935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.254963+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.255937+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.257934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.257934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.258949+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.259933+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.260938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.260938+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.261936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.261936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.262934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.263939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.263939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.264939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.264939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.265936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.266936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.267939+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.268935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.268935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.269969+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.269969+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.270936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.271934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.272951+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.273934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.274936+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.275933+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.276934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.278934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.278934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.279935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.279935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.279935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.280935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]
+2024-10-21 14:04:47.281934+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILMS" not found (this database is empty); SQL statement:
+INSERT INTO FILMS (imbdid, title, year, poster, rating) VALUES (?, ?, ?, ?, ?) [42104-232]

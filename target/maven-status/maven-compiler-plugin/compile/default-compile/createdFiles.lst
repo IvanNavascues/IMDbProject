@@ -1,0 +1,6 @@
+com\mycompany\omdbproject\Film.class
+com\mycompany\omdbproject\OMDbProject.class
+com\mycompany\omdbproject\DBConnection.class
+com\mycompany\omdbproject\DBConnection$2.class
+com\mycompany\omdbproject\DBConnection$1.class
+com\mycompany\omdbproject\FilmWrapper.class
